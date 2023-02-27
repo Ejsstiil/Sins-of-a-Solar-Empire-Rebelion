@@ -20,11 +20,7 @@ Mod for Sins of a Solar Empire: Rebelion (WIP)
 |![image](https://user-images.githubusercontent.com/36369441/221631685-f3a31c6f-da59-4af2-be81-d8a0f597d34a.png)| ![image](https://user-images.githubusercontent.com/36369441/221631366-ce37692a-8068-42b5-939e-39357f63bbb8.png) |
 
 <br/>
-<br/><br/><br/>
-
-
-
-
+<br/>
 
 
 ### How to install:
