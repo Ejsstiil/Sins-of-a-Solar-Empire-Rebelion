@@ -28,7 +28,7 @@ Mod for Sins of a Solar Empire: Rebelion (WIP)
 
 
 ### How to install:
-- download latest .zip release from [here](./releases)
+- download latest .zip release from [here](https://github.com/Ejsstiil/SoaSER-GUITweaks/releases)
 - unpack to folder `%HOMEDRIVE%%HOMEPATH%\documents\"my games"\"Ironclad Games"\"Sins of a Solar Empire Rebellion"\"Mods-Rebellion v1.85"`
 	- or press Win+E and paste this to address bar: `%HOMEDRIVE%%HOMEPATH%\documents\my games\Ironclad Games\Sins of a Solar Empire Rebellion\Mods-Rebellion v1.85`
 - unpack dowloaded file here, so it will be in its own folder
