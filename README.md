@@ -1,4 +1,5 @@
 
+
 # Sins of a Solar Empire: Rebelion
 Mod for Sins of a Solar Empire: Rebelion (WIP)
 ### What this mod does:
@@ -35,8 +36,11 @@ Mod for Sins of a Solar Empire: Rebelion (WIP)
 #### Activate Mod:
 
 Run the game and in the main-menu press ![image](https://user-images.githubusercontent.com/36369441/221620460-b9e93ac6-5a77-40e8-9a66-39267cabf7c1.png)
+
 then ![image](https://user-images.githubusercontent.com/36369441/221620728-e3d618f3-a59c-44ee-9e76-3f914d6f799c.png)
+
 then click on the name of the downloaded Mod and click![image](https://user-images.githubusercontent.com/36369441/221620861-f8e12dcb-1848-4ce1-9a22-85861001545c.png)
+
 and ![image](https://user-images.githubusercontent.com/36369441/221620956-c9c9c6d7-1f3f-4b66-a3b5-57554faf8070.png)
 
 
